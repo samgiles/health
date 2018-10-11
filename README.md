@@ -1,5 +1,7 @@
 # Async Healthcheck controller for Go
 
+[![Build Status](https://travis-ci.com/samgiles/health.svg?branch=master)](https://travis-ci.com/samgiles/health)
+
 - Supports Readiness and Liveness states (k8s).
 - Async healthchecks only
 - Go mod support
